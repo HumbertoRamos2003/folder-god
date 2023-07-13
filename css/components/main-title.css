@@ -1,0 +1,21 @@
+.main-title {
+    font-family: 'fira code', sans-serif;
+    font-size: 40px;
+    color: #fff;
+    /*text-shadow: 5px 4.5px 1.1px #747272;*/
+}
+
+.main-title.-second{
+    color: #facf39;
+    text-shadow: none;
+    text-align: center;
+}
+
+.main-title.-projetos{
+    font-family: 'Press Start 2P', sans-serif;
+    margin-bottom: 60px;
+    color: #283c63;
+    text-shadow: none;
+    text-align: center;
+    text-shadow: 5px 4.5px 1.1px #101010;
+}
