@@ -12,10 +12,10 @@
 }
 
 .main-title.-projetos{
-    font-family: 'Press Start 2P', sans-serif;
+    font-family: 'fira code', sans-serif;
     margin-bottom: 60px;
     color: #283c63;
     text-shadow: none;
     text-align: center;
-    text-shadow: 5px 4.5px 1.1px #101010;
+    /*text-shadow: 5px 4.5px 1.1px #101010;*/
 }
