@@ -1,8 +1,21 @@
 .main-section{
     background-color: #283c63;
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 0px;
     border-bottom: 10px solid #19263f;
+}
+
+.main-section-tec {
+    background-color: #facf39;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #8e6f00;
+}
+
+.main-section-mec {
+    background-color: #283c63;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
 
 .main-section .main-title {
