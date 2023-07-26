@@ -2,9 +2,8 @@
     box-sizing: border-box;
     background-image: url(../../img/photo.png);
     background-repeat: no-repeat;
-    background-size: 108%;
     height: 800px;
-    border-bottom: 10px solid #19263f;
+    border-bottom: 14px solid #19263f;
     padding-top: 175px;
     padding-left: 150px;
 }

@@ -1,5 +1,10 @@
-@media (max-width 1120px) {
-    .main-header{
-        max-width: 190px;
+@media screen and (max-width: 980px) {
+    .mani-header > .menu{
+        max-width: 3.4rem;
     }
+
+    .main-banner {
+        width: 100%;
+    }
+
 }
